@@ -1865,8 +1865,8 @@
       {
         "question": "Which city will host sailing",
         "answer": "Marseille",
-        "type": "LOC",
-        "entity": "O",
+        "type": "factoid",
+        "entity": "LOC",
         "domain": "open",
         "note": ""
       },
