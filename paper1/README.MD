@@ -1,0 +1,1 @@
+Presentation of the paper Vretinaris, A., Lei, C., Efthymiou, V., Qin, X. and Özcan, F., 2021, June. Medical entity disambiguation using graph neural networks. In Proceedings of the 2021 international conference on management of data (pp. 2310-2318).
