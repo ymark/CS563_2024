@@ -1,0 +1,2002 @@
+[
+    {
+        "question": "When was the postgraduate program established?",
+        "question_index": 0,
+        "predicted_topic_text_indices": [
+            11,
+            0
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "With which organization does the Depertment closely work?",
+        "question_index": 1,
+        "predicted_topic_text_indices": [
+            22,
+            0
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What ministry is responsible for the department?",
+        "question_index": 2,
+        "predicted_topic_text_indices": [
+            0,
+            11
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the number of professors in the department?",
+        "question_index": 4,
+        "predicted_topic_text_indices": [
+            33,
+            16
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Where is the department located?",
+        "question_index": 5,
+        "predicted_topic_text_indices": [
+            0,
+            13
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was the Department bacame operational?",
+        "question_index": 6,
+        "predicted_topic_text_indices": [
+            11,
+            0
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many years does the Department operate?",
+        "question_index": 7,
+        "predicted_topic_text_indices": [
+            37,
+            30
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "When was the postgraduate program started?",
+        "question_index": 8,
+        "predicted_topic_text_indices": [
+            6,
+            0
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "With which organization does CSD cooperate?",
+        "question_index": 9,
+        "predicted_topic_text_indices": [
+            39,
+            0
+        ],
+        "actual_context_text_index": 0,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who played Scarlett O'Hara?",
+        "question_index": 10,
+        "predicted_topic_text_indices": [
+            30,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who directed Gone with the Wind?",
+        "question_index": 11,
+        "predicted_topic_text_indices": [
+            34,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is the story set?",
+        "question_index": 12,
+        "predicted_topic_text_indices": [
+            11,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What are the genres of the movie?",
+        "question_index": 13,
+        "predicted_topic_text_indices": [
+            29,
+            34
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "When was the novel published?",
+        "question_index": 14,
+        "predicted_topic_text_indices": [
+            22,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the name of the role played by Clark Gable?",
+        "question_index": 15,
+        "predicted_topic_text_indices": [
+            30,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the budget of the film?",
+        "question_index": 16,
+        "predicted_topic_text_indices": [
+            22,
+            1
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In what historical periods does the movie take place?",
+        "question_index": 17,
+        "predicted_topic_text_indices": [
+            3,
+            35
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Give me the related Wikipedia page for the Gone with the wind book.",
+        "question_index": 18,
+        "predicted_topic_text_indices": [
+            14,
+            35
+        ],
+        "actual_context_text_index": 1,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How can we describe Putrajaya?",
+        "question_index": 19,
+        "predicted_topic_text_indices": [
+            2,
+            35
+        ],
+        "actual_context_text_index": 2,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who was the first Malaysian Prime Minister?",
+        "question_index": 21,
+        "predicted_topic_text_indices": [
+            13,
+            2
+        ],
+        "actual_context_text_index": 2,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What does jaya mean in Sanskrit?",
+        "question_index": 23,
+        "predicted_topic_text_indices": [
+            32,
+            2
+        ],
+        "actual_context_text_index": 2,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the former name of Putrajaya?",
+        "question_index": 24,
+        "predicted_topic_text_indices": [
+            16,
+            2
+        ],
+        "actual_context_text_index": 2,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the first name of Mozart's father?",
+        "question_index": 25,
+        "predicted_topic_text_indices": [
+            26,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was Mozart's profession?",
+        "question_index": 26,
+        "predicted_topic_text_indices": [
+            33,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the address of Mozart's birthplace?",
+        "question_index": 27,
+        "predicted_topic_text_indices": [
+            11,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where was Mozart's birthplace?",
+        "question_index": 28,
+        "predicted_topic_text_indices": [
+            11,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What age did Mozart die?",
+        "question_index": 29,
+        "predicted_topic_text_indices": [
+            21,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "List some composers of the classical era?",
+        "question_index": 30,
+        "predicted_topic_text_indices": [
+            16,
+            3
+        ],
+        "actual_context_text_index": 3,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the telephone of the Veneziano Boutique Hotel?",
+        "question_index": 31,
+        "predicted_topic_text_indices": [
+            35,
+            4
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was the construction of the building completed?",
+        "question_index": 32,
+        "predicted_topic_text_indices": [
+            11,
+            2
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What material dominates the whole building?",
+        "question_index": 33,
+        "predicted_topic_text_indices": [
+            29,
+            23
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Who was the first resident of the building?",
+        "question_index": 34,
+        "predicted_topic_text_indices": [
+            33,
+            11
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What architectural styles characterize this building?",
+        "question_index": 35,
+        "predicted_topic_text_indices": [
+            23,
+            29
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What resides below the ground floor of the building?",
+        "question_index": 36,
+        "predicted_topic_text_indices": [
+            0,
+            35
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many ways out exist in the building?",
+        "question_index": 37,
+        "predicted_topic_text_indices": [
+            30,
+            35
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "In which floor did the hostler live?",
+        "question_index": 38,
+        "predicted_topic_text_indices": [
+            4,
+            3
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who was the first habitant of the building?",
+        "question_index": 39,
+        "predicted_topic_text_indices": [
+            11,
+            33
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many rooms are in the building?",
+        "question_index": 40,
+        "predicted_topic_text_indices": [
+            4,
+            22
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How far is Knossos from the hotel?",
+        "question_index": 41,
+        "predicted_topic_text_indices": [
+            19,
+            32
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What populated places are within 45km from Heraklion?",
+        "question_index": 42,
+        "predicted_topic_text_indices": [
+            12,
+            16
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Which is the official web page of the Veneziano Hotel?",
+        "question_index": 43,
+        "predicted_topic_text_indices": [
+            4,
+            35
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many floors does the building have?",
+        "question_index": 44,
+        "predicted_topic_text_indices": [
+            22,
+            4
+        ],
+        "actual_context_text_index": 4,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In what century did antibiotics revolutionized medicine?",
+        "question_index": 45,
+        "predicted_topic_text_indices": [
+            15,
+            5
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When were antibiotics created?",
+        "question_index": 46,
+        "predicted_topic_text_indices": [
+            37,
+            11
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What organization called antimicrobial resistance a 'serious threat?'",
+        "question_index": 47,
+        "predicted_topic_text_indices": [
+            16,
+            5
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When were antibiotics created?",
+        "question_index": 48,
+        "predicted_topic_text_indices": [
+            37,
+            11
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is an aftereffect of the undue usage of antibiotics?",
+        "question_index": 51,
+        "predicted_topic_text_indices": [
+            5,
+            35
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What problem is characterized as a 'serious threat'?",
+        "question_index": 52,
+        "predicted_topic_text_indices": [
+            28,
+            5
+        ],
+        "actual_context_text_index": 5,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What tiramisu means?",
+        "question_index": 53,
+        "predicted_topic_text_indices": [
+            16,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which Italian regions claim the origins this dessert?",
+        "question_index": 54,
+        "predicted_topic_text_indices": [
+            35,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the name of the restaurant where the first tiramisu was made?",
+        "question_index": 55,
+        "predicted_topic_text_indices": [
+            16,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who has made the first tiramisu?",
+        "question_index": 56,
+        "predicted_topic_text_indices": [
+            33,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What kind of coffee is used in tiramisu?",
+        "question_index": 57,
+        "predicted_topic_text_indices": [
+            35,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "List some ingredients of tiramisu?",
+        "question_index": 58,
+        "predicted_topic_text_indices": [
+            35,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is a ladyfinger?",
+        "question_index": 59,
+        "predicted_topic_text_indices": [
+            30,
+            6
+        ],
+        "actual_context_text_index": 6,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who directed Aladdin?",
+        "question_index": 62,
+        "predicted_topic_text_indices": [
+            11,
+            1
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Which theatre stages Aladdin?",
+        "question_index": 63,
+        "predicted_topic_text_indices": [
+            12,
+            7
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many costumes are used in the performance?",
+        "question_index": 64,
+        "predicted_topic_text_indices": [
+            38,
+            7
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When are the performances scheduled?",
+        "question_index": 65,
+        "predicted_topic_text_indices": [
+            7,
+            34
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is Prince Edward Theatre located?",
+        "question_index": 66,
+        "predicted_topic_text_indices": [
+            17,
+            7
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the owner of Prince Edward Theatre?",
+        "question_index": 67,
+        "predicted_topic_text_indices": [
+            11,
+            6
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Give me the related Wikipedia page for Alladin.",
+        "question_index": 68,
+        "predicted_topic_text_indices": [
+            16,
+            35
+        ],
+        "actual_context_text_index": 7,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Give the phonological representation of the word London?",
+        "question_index": 69,
+        "predicted_topic_text_indices": [
+            22,
+            35
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Based on the 2011 census, which EU city does London follows in population?",
+        "question_index": 70,
+        "predicted_topic_text_indices": [
+            27,
+            8
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Approximately how many languages are spoken in the Greater London area?",
+        "question_index": 71,
+        "predicted_topic_text_indices": [
+            16,
+            8
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was London's original name, as founded by the Romans?",
+        "question_index": 72,
+        "predicted_topic_text_indices": [
+            22,
+            8
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "On what river is London situated?",
+        "question_index": 73,
+        "predicted_topic_text_indices": [
+            11,
+            8
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "During what time did London have the world's largest population, city-wise?",
+        "question_index": 74,
+        "predicted_topic_text_indices": [
+            37,
+            3
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the population of metropolitan London?",
+        "question_index": 75,
+        "predicted_topic_text_indices": [
+            8,
+            15
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What measurement designates London as the world's most visited city?",
+        "question_index": 76,
+        "predicted_topic_text_indices": [
+            16,
+            8
+        ],
+        "actual_context_text_index": 8,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is Malaysia located?",
+        "question_index": 77,
+        "predicted_topic_text_indices": [
+            2,
+            39
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "question_index": 78,
+        "predicted_topic_text_indices": [
+            32,
+            2
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "When did Malaysia obtain independence?",
+        "question_index": 79,
+        "predicted_topic_text_indices": [
+            35,
+            9
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What percentage of Malaysians are Christians?",
+        "question_index": 80,
+        "predicted_topic_text_indices": [
+            16,
+            15
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many Malaysians have no religion?",
+        "question_index": 81,
+        "predicted_topic_text_indices": [
+            34,
+            16
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the population of Malaysia?",
+        "question_index": 82,
+        "predicted_topic_text_indices": [
+            32,
+            9
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When did Malaysia attain autonomy?",
+        "question_index": 83,
+        "predicted_topic_text_indices": [
+            22,
+            9
+        ],
+        "actual_context_text_index": 9,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is a cookie?",
+        "question_index": 84,
+        "predicted_topic_text_indices": [
+            23,
+            6
+        ],
+        "actual_context_text_index": 10,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the postal address of the Inditex Group?",
+        "question_index": 85,
+        "predicted_topic_text_indices": [
+            16,
+            35
+        ],
+        "actual_context_text_index": 10,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is a web beacon?",
+        "question_index": 86,
+        "predicted_topic_text_indices": [
+            35,
+            14
+        ],
+        "actual_context_text_index": 10,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Which automatic tracking mechanisms are used by the site?",
+        "question_index": 87,
+        "predicted_topic_text_indices": [
+            35,
+            10
+        ],
+        "actual_context_text_index": 10,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the current president of the festival?",
+        "question_index": 89,
+        "predicted_topic_text_indices": [
+            30,
+            11
+        ],
+        "actual_context_text_index": 11,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was Venice Biennale established?",
+        "question_index": 90,
+        "predicted_topic_text_indices": [
+            34,
+            11
+        ],
+        "actual_context_text_index": 11,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where does the festival take place?",
+        "question_index": 91,
+        "predicted_topic_text_indices": [
+            11,
+            12
+        ],
+        "actual_context_text_index": 11,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which are the three of the largest film festivals in the world?",
+        "question_index": 92,
+        "predicted_topic_text_indices": [
+            12,
+            11
+        ],
+        "actual_context_text_index": 11,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where does the movie start?",
+        "question_index": 94,
+        "predicted_topic_text_indices": [
+            34,
+            22
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What year was the movie released?",
+        "question_index": 95,
+        "predicted_topic_text_indices": [
+            1,
+            34
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "From what disorder does Verbal suffer?",
+        "question_index": 97,
+        "predicted_topic_text_indices": [
+            35,
+            12
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who has faked his own death?",
+        "question_index": 98,
+        "predicted_topic_text_indices": [
+            12,
+            22
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many Oscars did the film won?",
+        "question_index": 99,
+        "predicted_topic_text_indices": [
+            7,
+            34
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": " Who inquired Verbal?",
+        "question_index": 100,
+        "predicted_topic_text_indices": [
+            33,
+            12
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who was the President of the United States when the movie was released?",
+        "question_index": 101,
+        "predicted_topic_text_indices": [
+            11,
+            30
+        ],
+        "actual_context_text_index": 12,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many were shot down in Bloody Sunday?",
+        "question_index": 102,
+        "predicted_topic_text_indices": [
+            16,
+            13
+        ],
+        "actual_context_text_index": 13,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was the peace deal signed?",
+        "question_index": 103,
+        "predicted_topic_text_indices": [
+            11,
+            13
+        ],
+        "actual_context_text_index": 13,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When did Bloody Sunday happen?",
+        "question_index": 104,
+        "predicted_topic_text_indices": [
+            16,
+            13
+        ],
+        "actual_context_text_index": 13,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where did the Bloody Sunday take place?",
+        "question_index": 105,
+        "predicted_topic_text_indices": [
+            12,
+            13
+        ],
+        "actual_context_text_index": 13,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the death toll in the 25 years of conflict?",
+        "question_index": 106,
+        "predicted_topic_text_indices": [
+            29,
+            13
+        ],
+        "actual_context_text_index": 13,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "List Michael Jordan's wives",
+        "question_index": 107,
+        "predicted_topic_text_indices": [
+            17,
+            35
+        ],
+        "actual_context_text_index": 14,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "With which women Michael Jordan has tied the knot?",
+        "question_index": 108,
+        "predicted_topic_text_indices": [
+            16,
+            34
+        ],
+        "actual_context_text_index": 14,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What team did Michael Jordan play for after the Bulls?",
+        "question_index": 109,
+        "predicted_topic_text_indices": [
+            16,
+            14
+        ],
+        "actual_context_text_index": 14,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is Michael Jordan second wife?",
+        "question_index": 110,
+        "predicted_topic_text_indices": [
+            23,
+            34
+        ],
+        "actual_context_text_index": 14,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many people live in the city?",
+        "question_index": 111,
+        "predicted_topic_text_indices": [
+            27,
+            32
+        ],
+        "actual_context_text_index": 15,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the number of non-native Galician residents in Santiago de Compostela?",
+        "question_index": 112,
+        "predicted_topic_text_indices": [
+            34,
+            15
+        ],
+        "actual_context_text_index": 15,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is Bundesliga?",
+        "question_index": 113,
+        "predicted_topic_text_indices": [
+            34,
+            35
+        ],
+        "actual_context_text_index": 16,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Man Utd or Arsenal are more succesfull regarding the number of titles?",
+        "question_index": 115,
+        "predicted_topic_text_indices": [
+            18,
+            16
+        ],
+        "actual_context_text_index": 16,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the nickname of Arsenal?",
+        "question_index": 116,
+        "predicted_topic_text_indices": [
+            12,
+            16
+        ],
+        "actual_context_text_index": 16,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What does this review consider as the worst aspect?",
+        "question_index": 117,
+        "predicted_topic_text_indices": [
+            23,
+            35
+        ],
+        "actual_context_text_index": 17,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What are the positive aspects mentioned in this review?",
+        "question_index": 119,
+        "predicted_topic_text_indices": [
+            34,
+            35
+        ],
+        "actual_context_text_index": 17,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Who likes Mary?",
+        "question_index": 121,
+        "predicted_topic_text_indices": [
+            30,
+            1
+        ],
+        "actual_context_text_index": 18,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What Mary received?",
+        "question_index": 122,
+        "predicted_topic_text_indices": [
+            18,
+            30
+        ],
+        "actual_context_text_index": 18,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who smiled?",
+        "question_index": 123,
+        "predicted_topic_text_indices": [
+            20,
+            11
+        ],
+        "actual_context_text_index": 19,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "How many people were in the meeting room?",
+        "question_index": 124,
+        "predicted_topic_text_indices": [
+            32,
+            34
+        ],
+        "actual_context_text_index": 19,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": " What time did John arrive at the meeting?",
+        "question_index": 125,
+        "predicted_topic_text_indices": [
+            6,
+            35
+        ],
+        "actual_context_text_index": 19,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Why was the goalkeeper very sad?",
+        "question_index": 126,
+        "predicted_topic_text_indices": [
+            13,
+            20
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many goals did Jon score?",
+        "question_index": 127,
+        "predicted_topic_text_indices": [
+            16,
+            20
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which team played better?",
+        "question_index": 128,
+        "predicted_topic_text_indices": [
+            34,
+            26
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Which team was more apt?",
+        "question_index": 129,
+        "predicted_topic_text_indices": [
+            34,
+            26
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What's the name of the John's team?",
+        "question_index": 130,
+        "predicted_topic_text_indices": [
+            20,
+            16
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "The fans of Olympiakos were positive or negative at the and of the game?",
+        "question_index": 131,
+        "predicted_topic_text_indices": [
+            35,
+            20
+        ],
+        "actual_context_text_index": 20,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When he moved to the capital of Italy?",
+        "question_index": 133,
+        "predicted_topic_text_indices": [
+            35,
+            11
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the birthplace of El Greco?",
+        "question_index": 134,
+        "predicted_topic_text_indices": [
+            11,
+            21
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is the Kingdom of Candia?",
+        "question_index": 135,
+        "predicted_topic_text_indices": [
+            16,
+            21
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where El Greco lived the first 18 years of his life?",
+        "question_index": 136,
+        "predicted_topic_text_indices": [
+            11,
+            16
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Tell me some characteristics of Mannerism",
+        "question_index": 137,
+        "predicted_topic_text_indices": [
+            18,
+            33
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Show me a few indicative paintings of Mannerism style from wikipedia",
+        "question_index": 138,
+        "predicted_topic_text_indices": [
+            16,
+            35
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "In which coutries did El Greco live?",
+        "question_index": 139,
+        "predicted_topic_text_indices": [
+            12,
+            16
+        ],
+        "actual_context_text_index": 21,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the name of the first Harry Potter novel?",
+        "question_index": 140,
+        "predicted_topic_text_indices": [
+            22,
+            1
+        ],
+        "actual_context_text_index": 22,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the name of the fifth Harry Potter novel?",
+        "question_index": 141,
+        "predicted_topic_text_indices": [
+            12,
+            1
+        ],
+        "actual_context_text_index": 22,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "When did the 7th harry potter book come out?",
+        "question_index": 142,
+        "predicted_topic_text_indices": [
+            37,
+            22
+        ],
+        "actual_context_text_index": 22,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who was the murdered of his mother and father?",
+        "question_index": 143,
+        "predicted_topic_text_indices": [
+            13,
+            22
+        ],
+        "actual_context_text_index": 22,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which is the machine learning library of matlab?",
+        "question_index": 148,
+        "predicted_topic_text_indices": [
+            35,
+            23
+        ],
+        "actual_context_text_index": 23,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which library makes Python faster?",
+        "question_index": 149,
+        "predicted_topic_text_indices": [
+            22,
+            23
+        ],
+        "actual_context_text_index": 23,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the owner of the flashlight?",
+        "question_index": 153,
+        "predicted_topic_text_indices": [
+            33,
+            6
+        ],
+        "actual_context_text_index": 24,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Who has a bicycle?",
+        "question_index": 154,
+        "predicted_topic_text_indices": [
+            27,
+            24
+        ],
+        "actual_context_text_index": 24,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What destroyed the settlement?",
+        "question_index": 155,
+        "predicted_topic_text_indices": [
+            29,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which volcano\u2019s eruption destroyed the settlement?",
+        "question_index": 156,
+        "predicted_topic_text_indices": [
+            16,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many times stronger was the eruption to Krakatoa\u2019s?",
+        "question_index": 157,
+        "predicted_topic_text_indices": [
+            16,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many people were killed by the eruption of Krakatoa?",
+        "question_index": 158,
+        "predicted_topic_text_indices": [
+            16,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who excavated Akrotiri?",
+        "question_index": 159,
+        "predicted_topic_text_indices": [
+            33,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is a famous fresco from Akrotiri?",
+        "question_index": 160,
+        "predicted_topic_text_indices": [
+            16,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Name one famous Minoan town",
+        "question_index": 161,
+        "predicted_topic_text_indices": [
+            13,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is Knossos?",
+        "question_index": 162,
+        "predicted_topic_text_indices": [
+            34,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was the eruption?",
+        "question_index": 163,
+        "predicted_topic_text_indices": [
+            11,
+            13
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Where is the volcano?",
+        "question_index": 164,
+        "predicted_topic_text_indices": [
+            16,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the name of the settlement?",
+        "question_index": 165,
+        "predicted_topic_text_indices": [
+            35,
+            23
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Except from the settlement what else did the excavations discover?",
+        "question_index": 166,
+        "predicted_topic_text_indices": [
+            35,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where were the frescoes found?",
+        "question_index": 167,
+        "predicted_topic_text_indices": [
+            12,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is Thera?",
+        "question_index": 168,
+        "predicted_topic_text_indices": [
+            34,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In which sea is Thera located?",
+        "question_index": 169,
+        "predicted_topic_text_indices": [
+            8,
+            29
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Where is Krakatoa located?",
+        "question_index": 170,
+        "predicted_topic_text_indices": [
+            12,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the first name of Marinatos?",
+        "question_index": 171,
+        "predicted_topic_text_indices": [
+            16,
+            34
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "What is the current name of greek island Thera?",
+        "question_index": 172,
+        "predicted_topic_text_indices": [
+            0,
+            11
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "When were the akrotiri excavations conducted?",
+        "question_index": 173,
+        "predicted_topic_text_indices": [
+            3,
+            25
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the capital of Santorini?",
+        "question_index": 174,
+        "predicted_topic_text_indices": [
+            27,
+            32
+        ],
+        "actual_context_text_index": 25,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "Who wins the first title of his carrer?",
+        "question_index": 180,
+        "predicted_topic_text_indices": [
+            34,
+            26
+        ],
+        "actual_context_text_index": 26,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the father of Max Verstappen?",
+        "question_index": 181,
+        "predicted_topic_text_indices": [
+            11,
+            26
+        ],
+        "actual_context_text_index": 26,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many titles Michael Schumacher has won?",
+        "question_index": 183,
+        "predicted_topic_text_indices": [
+            16,
+            26
+        ],
+        "actual_context_text_index": 26,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the seven-times champion?",
+        "question_index": 185,
+        "predicted_topic_text_indices": [
+            34,
+            26
+        ],
+        "actual_context_text_index": 26,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What sports can you do in Naxos?",
+        "question_index": 188,
+        "predicted_topic_text_indices": [
+            14,
+            27
+        ],
+        "actual_context_text_index": 27,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which is the major city in Naxos?",
+        "question_index": 189,
+        "predicted_topic_text_indices": [
+            12,
+            27
+        ],
+        "actual_context_text_index": 27,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many people live in Chora",
+        "question_index": 191,
+        "predicted_topic_text_indices": [
+            16,
+            27
+        ],
+        "actual_context_text_index": 27,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When Socrates passed away?",
+        "question_index": 194,
+        "predicted_topic_text_indices": [
+            23,
+            28
+        ],
+        "actual_context_text_index": 28,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where was he in his last day?",
+        "question_index": 196,
+        "predicted_topic_text_indices": [
+            30,
+            28
+        ],
+        "actual_context_text_index": 28,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When was his birth year?",
+        "question_index": 198,
+        "predicted_topic_text_indices": [
+            28,
+            3
+        ],
+        "actual_context_text_index": 28,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which was the first port of Titanic?",
+        "question_index": 199,
+        "predicted_topic_text_indices": [
+            30,
+            29
+        ],
+        "actual_context_text_index": 29,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "When Titanic sank?",
+        "question_index": 200,
+        "predicted_topic_text_indices": [
+            17,
+            29
+        ],
+        "actual_context_text_index": 29,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which was the owner of Titanic",
+        "question_index": 202,
+        "predicted_topic_text_indices": [
+            29,
+            6
+        ],
+        "actual_context_text_index": 29,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which was the second time that Paris organized the Olympic Games",
+        "question_index": 204,
+        "predicted_topic_text_indices": [
+            30,
+            35
+        ],
+        "actual_context_text_index": 30,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which city will host sailing",
+        "question_index": 206,
+        "predicted_topic_text_indices": [
+            29,
+            30
+        ],
+        "actual_context_text_index": 30,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which date will the flame arrive in France",
+        "question_index": 207,
+        "predicted_topic_text_indices": [
+            6,
+            30
+        ],
+        "actual_context_text_index": 30,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the weather in the ceremony",
+        "question_index": 209,
+        "predicted_topic_text_indices": [
+            35,
+            30
+        ],
+        "actual_context_text_index": 30,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What concept is frequently used to define complexity classes?",
+        "question_index": 210,
+        "predicted_topic_text_indices": [
+            35,
+            31
+        ],
+        "actual_context_text_index": 31,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Polynomial time reductions are an example of what?",
+        "question_index": 211,
+        "predicted_topic_text_indices": [
+            31,
+            35
+        ],
+        "actual_context_text_index": 31,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which city is the fifth-largest city in California?",
+        "question_index": 213,
+        "predicted_topic_text_indices": [
+            27,
+            32
+        ],
+        "actual_context_text_index": 32,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which is the distance of Fresno from the state capital",
+        "question_index": 214,
+        "predicted_topic_text_indices": [
+            2,
+            32
+        ],
+        "actual_context_text_index": 32,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In which Valley is Fresno the largest city?",
+        "question_index": 215,
+        "predicted_topic_text_indices": [
+            2,
+            32
+        ],
+        "actual_context_text_index": 32,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What Microsoft CEO is also an alumni of the University of Chicago?",
+        "question_index": 218,
+        "predicted_topic_text_indices": [
+            38,
+            33
+        ],
+        "actual_context_text_index": 33,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the third riches man in America?",
+        "question_index": 219,
+        "predicted_topic_text_indices": [
+            1,
+            33
+        ],
+        "actual_context_text_index": 33,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who was the founder of the Oracle Corporation?",
+        "question_index": 221,
+        "predicted_topic_text_indices": [
+            11,
+            33
+        ],
+        "actual_context_text_index": 33,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which movie won the Golden Globe Award in 2022",
+        "question_index": 222,
+        "predicted_topic_text_indices": [
+            7,
+            34
+        ],
+        "actual_context_text_index": 34,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who is the director of Maestro?",
+        "question_index": 223,
+        "predicted_topic_text_indices": [
+            11,
+            34
+        ],
+        "actual_context_text_index": 34,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which are the dates of the next Venice International Film Festival",
+        "question_index": 224,
+        "predicted_topic_text_indices": [
+            11,
+            34
+        ],
+        "actual_context_text_index": 34,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which two treaties provided more formal institutions of the European Union?",
+        "question_index": 227,
+        "predicted_topic_text_indices": [
+            22,
+            35
+        ],
+        "actual_context_text_index": 35,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In what years did Spain and Portugal join the European Union?",
+        "question_index": 228,
+        "predicted_topic_text_indices": [
+            0,
+            35
+        ],
+        "actual_context_text_index": 35,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which country joined the European Union in 2013?",
+        "question_index": 229,
+        "predicted_topic_text_indices": [
+            16,
+            35
+        ],
+        "actual_context_text_index": 35,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Which country in 1985 signed a treaty to give it special status?",
+        "question_index": 231,
+        "predicted_topic_text_indices": [
+            34,
+            35
+        ],
+        "actual_context_text_index": 35,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What caused the need for principal Treaties that ended up forming the EU?",
+        "question_index": 233,
+        "predicted_topic_text_indices": [
+            14,
+            35
+        ],
+        "actual_context_text_index": 35,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What was the main idea of James Hutton's paper",
+        "question_index": 234,
+        "predicted_topic_text_indices": [
+            18,
+            35
+        ],
+        "actual_context_text_index": 36,
+        "accuracy_text_prediction": 0
+    },
+    {
+        "question": "James Hutton published a 2 volume version of his theories in what year?",
+        "question_index": 235,
+        "predicted_topic_text_indices": [
+            35,
+            36
+        ],
+        "actual_context_text_index": 36,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who designed ABC's 1998 new graphic design?",
+        "question_index": 237,
+        "predicted_topic_text_indices": [
+            11,
+            37
+        ],
+        "actual_context_text_index": 37,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "In what year did ABC stop using it's four-note jingle for promotion?",
+        "question_index": 238,
+        "predicted_topic_text_indices": [
+            35,
+            37
+        ],
+        "actual_context_text_index": 37,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What image campaign was the new four-note jingle for ABC based around?",
+        "question_index": 239,
+        "predicted_topic_text_indices": [
+            35,
+            37
+        ],
+        "actual_context_text_index": 37,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is the ABC four-note jingle still in use?",
+        "question_index": 240,
+        "predicted_topic_text_indices": [
+            35,
+            37
+        ],
+        "actual_context_text_index": 37,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many points did the Panthers defense surrender?",
+        "question_index": 241,
+        "predicted_topic_text_indices": [
+            35,
+            38
+        ],
+        "actual_context_text_index": 38,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Who registered the most sacks on the team this season?",
+        "question_index": 242,
+        "predicted_topic_text_indices": [
+            33,
+            38
+        ],
+        "actual_context_text_index": 38,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "How many Panthers defense players were selected for the Pro Bowl?",
+        "question_index": 243,
+        "predicted_topic_text_indices": [
+            16,
+            38
+        ],
+        "actual_context_text_index": 38,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the name of the private day school for K-12 students the university runs?",
+        "question_index": 245,
+        "predicted_topic_text_indices": [
+            0,
+            39
+        ],
+        "actual_context_text_index": 39,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "Where is the Hyde Park Day School located?",
+        "question_index": 246,
+        "predicted_topic_text_indices": [
+            16,
+            39
+        ],
+        "actual_context_text_index": 39,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What is the name of the residential treatment program the university runs?",
+        "question_index": 247,
+        "predicted_topic_text_indices": [
+            16,
+            39
+        ],
+        "actual_context_text_index": 39,
+        "accuracy_text_prediction": 1
+    },
+    {
+        "question": "What does the Urban Education Institute help run?",
+        "question_index": 248,
+        "predicted_topic_text_indices": [
+            35,
+            39
+        ],
+        "actual_context_text_index": 39,
+        "accuracy_text_prediction": 1
+    }
+]

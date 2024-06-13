@@ -1,0 +1,1602 @@
+[
+    {
+        "question": "When was the postgraduate program established?",
+        "question_index": 0,
+        "found_answer": "1985",
+        "golden_standard_answer": "1985",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "With which organization does the Depertment closely work?",
+        "question_index": 1,
+        "found_answer": "Institute of Computer Science",
+        "golden_standard_answer": "Foundation for Research and Technology Hellas (FORTH)",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What ministry is responsible for the department?",
+        "question_index": 2,
+        "found_answer": "Ministry of Education",
+        "golden_standard_answer": "Ministry of Education",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the number of professors in the department?",
+        "question_index": 4,
+        "found_answer": "twenty-one (21",
+        "golden_standard_answer": "21",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "Where is the department located?",
+        "question_index": 5,
+        "found_answer": "Heraklion",
+        "golden_standard_answer": "Heraklion",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When was the Department bacame operational?",
+        "question_index": 6,
+        "found_answer": "1984",
+        "golden_standard_answer": "1984",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many years does the Department operate?",
+        "question_index": 7,
+        "found_answer": "thirty-five",
+        "golden_standard_answer": "35",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When was the postgraduate program started?",
+        "question_index": 8,
+        "found_answer": "1985",
+        "golden_standard_answer": "1985",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "With which organization does CSD cooperate?",
+        "question_index": 9,
+        "found_answer": "the Senate",
+        "golden_standard_answer": "Foundation for Research and Technology Hellas (FORTH)",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who played Scarlett O'Hara?",
+        "question_index": 10,
+        "found_answer": "Vivien Leigh",
+        "golden_standard_answer": "Vivien Leigh",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who directed Gone with the Wind?",
+        "question_index": 11,
+        "found_answer": "Victor Fleming",
+        "golden_standard_answer": "Victor Fleming",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where is the story set?",
+        "question_index": 12,
+        "found_answer": "American South",
+        "golden_standard_answer": "American South",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What are the genres of the movie?",
+        "question_index": 13,
+        "found_answer": "romance",
+        "golden_standard_answer": "epic, historical, romance",
+        "golden_standard_entity": "GENRE",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "When was the novel published?",
+        "question_index": 14,
+        "found_answer": "1936",
+        "golden_standard_answer": "1936",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the name of the role played by Clark Gable?",
+        "question_index": 15,
+        "found_answer": "Rhett",
+        "golden_standard_answer": "Rhett",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the budget of the film?",
+        "question_index": 16,
+        "found_answer": "$3. 85 million",
+        "golden_standard_answer": "$3.85 million",
+        "golden_standard_entity": "MONEY",
+        "accuracy_f1": 0.5714285714285715
+    },
+    {
+        "question": "In what historical periods does the movie take place?",
+        "question_index": 17,
+        "found_answer": "American Civil War and the Reconstruction era",
+        "golden_standard_answer": "Americal Civil War, Reconstruction Era",
+        "golden_standard_entity": "EVENT",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Give me the related Wikipedia page for the Gone with the wind book.",
+        "question_index": 18,
+        "found_answer": "85 million. ",
+        "golden_standard_answer": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(novel)",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How can we describe Putrajaya?",
+        "question_index": 19,
+        "found_answer": "Intelligent Garden City",
+        "golden_standard_answer": "Intelligent Garden City",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who was the first Malaysian Prime Minister?",
+        "question_index": 21,
+        "found_answer": "Tunku Abdul Rahman Putra Al-Haj",
+        "golden_standard_answer": "Tunku Abdul Rahman Putra Al-Haj",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What does jaya mean in Sanskrit?",
+        "question_index": 23,
+        "found_answer": "success\" or \"victory",
+        "golden_standard_answer": "success, victory",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.8
+    },
+    {
+        "question": "What was the former name of Putrajaya?",
+        "question_index": 24,
+        "found_answer": "Prang Besar",
+        "golden_standard_answer": "Prang Besar",
+        "golden_standard_entity": "NAME",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the first name of Mozart's father?",
+        "question_index": 25,
+        "found_answer": "Leopold Mozart",
+        "golden_standard_answer": "Leopold",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "What was Mozart's profession?",
+        "question_index": 26,
+        "found_answer": "composer",
+        "golden_standard_answer": "composer",
+        "golden_standard_entity": "PROFESSION",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the address of Mozart's birthplace?",
+        "question_index": 27,
+        "found_answer": "9 Getreidegasse",
+        "golden_standard_answer": "9 Getreidegasse Salzburg",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.8
+    },
+    {
+        "question": "Where was Mozart's birthplace?",
+        "question_index": 28,
+        "found_answer": "Salzburg",
+        "golden_standard_answer": "Salzburg",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What age did Mozart die?",
+        "question_index": 29,
+        "found_answer": "1791",
+        "golden_standard_answer": "35",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "List some composers of the classical era?",
+        "question_index": 30,
+        "found_answer": "Wolfgang Amadeus Mozart",
+        "golden_standard_answer": "Beethoven, Bach, Haydn",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the telephone of the Veneziano Boutique Hotel?",
+        "question_index": 31,
+        "found_answer": "0030 2810344758",
+        "golden_standard_answer": "0030 2810344758",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When was the construction of the building completed?",
+        "question_index": 32,
+        "found_answer": "1730",
+        "golden_standard_answer": "1730",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What material dominates the whole building?",
+        "question_index": 33,
+        "found_answer": "Heraklion Crete P. ",
+        "golden_standard_answer": "wood",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who was the first resident of the building?",
+        "question_index": 34,
+        "found_answer": "Aga of Heraklion",
+        "golden_standard_answer": "the first Aga of Heraklion",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.7499999999999999
+    },
+    {
+        "question": "What architectural styles characterize this building?",
+        "question_index": 35,
+        "found_answer": "Venetian and Ottoman",
+        "golden_standard_answer": "Venetian and Ottoman",
+        "golden_standard_entity": "NORP",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What resides below the ground floor of the building?",
+        "question_index": 36,
+        "found_answer": "Heraklion Crete P. ",
+        "golden_standard_answer": "Spa Center",
+        "golden_standard_entity": "FAC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many ways out exist in the building?",
+        "question_index": 37,
+        "found_answer": "five",
+        "golden_standard_answer": "five",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "In which floor did the hostler live?",
+        "question_index": 38,
+        "found_answer": "1770",
+        "golden_standard_answer": "groundfloor",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who was the first habitant of the building?",
+        "question_index": 39,
+        "found_answer": "Kazantzaki",
+        "golden_standard_answer": "the first Aga of Heraklion",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many rooms are in the building?",
+        "question_index": 40,
+        "found_answer": "4",
+        "golden_standard_answer": "6",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How far is Knossos from the hotel?",
+        "question_index": 41,
+        "found_answer": "0030 2810344758",
+        "golden_standard_answer": "about 9.68 KM",
+        "golden_standard_entity": "QUANTITY",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What populated places are within 45km from Heraklion?",
+        "question_index": 42,
+        "found_answer": "Kazantzaki",
+        "golden_standard_answer": "Knossos, Gazi,",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Which is the official web page of the Veneziano Hotel?",
+        "question_index": 43,
+        "found_answer": "info@veneziano",
+        "golden_standard_answer": "https://veneziano.gr",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many floors does the building have?",
+        "question_index": 44,
+        "found_answer": "two",
+        "golden_standard_answer": "two",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "In what century did antibiotics revolutionized medicine?",
+        "question_index": 45,
+        "found_answer": "20th",
+        "golden_standard_answer": "20th century",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "When were antibiotics created?",
+        "question_index": 46,
+        "found_answer": "20th century",
+        "golden_standard_answer": "20th century",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What organization called antimicrobial resistance a 'serious threat?'",
+        "question_index": 47,
+        "found_answer": "World Health Organization",
+        "golden_standard_answer": "World Health Organization",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When were antibiotics created?",
+        "question_index": 48,
+        "found_answer": "20th century",
+        "golden_standard_answer": "20th century",
+        "golden_standard_entity": "TIME",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is an aftereffect of the undue usage of antibiotics?",
+        "question_index": 51,
+        "found_answer": "kill or inhibit the growth of bacteria",
+        "golden_standard_answer": "some bacteria have developed resistance",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.16666666666666666
+    },
+    {
+        "question": "What problem is characterized as a 'serious threat'?",
+        "question_index": 52,
+        "found_answer": "antimicrobial resistance",
+        "golden_standard_answer": "antimicrobial resistance",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What tiramisu means?",
+        "question_index": 53,
+        "found_answer": "pick me up' or 'cheer me up",
+        "golden_standard_answer": "pick me up or cheer me up",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.8000000000000002
+    },
+    {
+        "question": "Which Italian regions claim the origins this dessert?",
+        "question_index": 54,
+        "found_answer": "Veneto and Friuli-Venezia Giulia",
+        "golden_standard_answer": "Veneto and Friuli-Venezia Giulia",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the name of the restaurant where the first tiramisu was made?",
+        "question_index": 55,
+        "found_answer": "Le Beccherie",
+        "golden_standard_answer": "Le Beccherie",
+        "golden_standard_entity": "FAC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who has made the first tiramisu?",
+        "question_index": 56,
+        "found_answer": "Roberto Linguanotto",
+        "golden_standard_answer": "Roberto Linguanotto",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What kind of coffee is used in tiramisu?",
+        "question_index": 57,
+        "found_answer": "espresso",
+        "golden_standard_answer": "espresso",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "List some ingredients of tiramisu?",
+        "question_index": 58,
+        "found_answer": "eggs, sugar, and mascarpone cheese",
+        "golden_standard_answer": "eggs, sugar, mascarpone cheese, espresso coffee, cocoa",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "What is a ladyfinger?",
+        "question_index": 59,
+        "found_answer": "savoiardi",
+        "golden_standard_answer": "Ladyfingers, sometimes known by their original Italian name savoiardi, or as sponge fingers in British English, are low density, dry, egg-based, sweet sponge biscuits roughly shaped like a large finger.",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.06666666666666667
+    },
+    {
+        "question": "Who directed Aladdin?",
+        "question_index": 62,
+        "found_answer": "Disney",
+        "golden_standard_answer": "Casey Nicholaw",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Which theatre stages Aladdin?",
+        "question_index": 63,
+        "found_answer": "West End",
+        "golden_standard_answer": "Prince Edward Theatre",
+        "golden_standard_entity": "FAC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many costumes are used in the performance?",
+        "question_index": 64,
+        "found_answer": "over 350",
+        "golden_standard_answer": "350",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "When are the performances scheduled?",
+        "question_index": 65,
+        "found_answer": "Monday to Saturday",
+        "golden_standard_answer": "Monday to Saturday at 7:30pm and Thursday and Saturday at 2:30pm",
+        "golden_standard_entity": "DATE, TIME",
+        "accuracy_f1": 0.5454545454545454
+    },
+    {
+        "question": "Where is Prince Edward Theatre located?",
+        "question_index": 66,
+        "found_answer": "London\u2019s Soho",
+        "golden_standard_answer": "London Soho",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Who is the owner of Prince Edward Theatre?",
+        "question_index": 67,
+        "found_answer": "Delfont Mackintosh Theatres",
+        "golden_standard_answer": "Delfont Mackintosh Theatres",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Give me the related Wikipedia page for Alladin.",
+        "question_index": 68,
+        "found_answer": "Aladdin",
+        "golden_standard_answer": "https://en.wikipedia.org/wiki/Aladdin_(2011_musical)",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Give the phonological representation of the word London?",
+        "question_index": 69,
+        "found_answer": "1831 to 1925",
+        "golden_standard_answer": "/\u02c8l\u028cnd\u0259n/",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Based on the 2011 census, which EU city does London follows in population?",
+        "question_index": 70,
+        "found_answer": "Paris",
+        "golden_standard_answer": "Paris",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Approximately how many languages are spoken in the Greater London area?",
+        "question_index": 71,
+        "found_answer": "300",
+        "golden_standard_answer": "300",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was London's original name, as founded by the Romans?",
+        "question_index": 72,
+        "found_answer": "Londinium",
+        "golden_standard_answer": "Londinium",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "On what river is London situated?",
+        "question_index": 73,
+        "found_answer": "River Thames",
+        "golden_standard_answer": "river Thames",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "During what time did London have the world's largest population, city-wise?",
+        "question_index": 74,
+        "found_answer": "1831 to 1925",
+        "golden_standard_answer": "around 1831 to 1925",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.8571428571428571
+    },
+    {
+        "question": "What is the population of metropolitan London?",
+        "question_index": 75,
+        "found_answer": "8,787,892",
+        "golden_standard_answer": "14,040,163",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What measurement designates London as the world's most visited city?",
+        "question_index": 76,
+        "found_answer": "international arrivals",
+        "golden_standard_answer": "international arrivals",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where is Malaysia located?",
+        "question_index": 77,
+        "found_answer": "Peninsular Malaysia",
+        "golden_standard_answer": "Southeast Asia",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the capital of Malaysia?",
+        "question_index": 78,
+        "found_answer": "Kuala Lumpur",
+        "golden_standard_answer": "Kuala Lumpur",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When did Malaysia obtain independence?",
+        "question_index": 79,
+        "found_answer": "31 August 1957",
+        "golden_standard_answer": "31 August 1957",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What percentage of Malaysians are Christians?",
+        "question_index": 80,
+        "found_answer": "2%",
+        "golden_standard_answer": "9.2%",
+        "golden_standard_entity": "PERCENT",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "How many Malaysians have no religion?",
+        "question_index": 81,
+        "found_answer": "6. 7%",
+        "golden_standard_answer": "0.7%",
+        "golden_standard_entity": "PERCENT",
+        "accuracy_f1": 0.4
+    },
+    {
+        "question": "What is the population of Malaysia?",
+        "question_index": 82,
+        "found_answer": "over 30 million",
+        "golden_standard_answer": "30 million",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.8
+    },
+    {
+        "question": "When did Malaysia attain autonomy?",
+        "question_index": 83,
+        "found_answer": "31 August 1957",
+        "golden_standard_answer": "31 August 1957",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is a cookie?",
+        "question_index": 84,
+        "found_answer": "small data files that are automatically stored on your computer when you visit our Website",
+        "golden_standard_answer": "Cookies are small data files that are automatically stored on your computer when you visit our Website",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.967741935483871
+    },
+    {
+        "question": "What is the postal address of the Inditex Group?",
+        "question_index": 85,
+        "found_answer": "Avenida de la Diputaci\u00f3n, Edificio Inditex",
+        "golden_standard_answer": "Avenida de la Diputaci\u00f3n, Edificio Inditex, 15142 Arteixo, A Coru\u00f1a (Spain)",
+        "golden_standard_entity": "ORG, GPE",
+        "accuracy_f1": 0.631578947368421
+    },
+    {
+        "question": "What is a web beacon?",
+        "question_index": 86,
+        "found_answer": "small strings of code",
+        "golden_standard_answer": "Web beacons are small strings of code that are placed in a website page or in an e-mail message. They are sometimes called \"clear GIFs\" (Graphics Interchange Format) or \"pixel tags.\"",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.2424242424242424
+    },
+    {
+        "question": "Which automatic tracking mechanisms are used by the site?",
+        "question_index": 87,
+        "found_answer": "automated tracking mechanisms and technology",
+        "golden_standard_answer": "cookies, beacons",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who is the current president of the festival?",
+        "question_index": 89,
+        "found_answer": "Paolo Baratta",
+        "golden_standard_answer": "Alberto Barbera",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When was Venice Biennale established?",
+        "question_index": 90,
+        "found_answer": "1893",
+        "golden_standard_answer": "19 April 1893",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "Where does the festival take place?",
+        "question_index": 91,
+        "found_answer": "Venice Lagoon",
+        "golden_standard_answer": "Lido",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Which are the three of the largest film festivals in the world?",
+        "question_index": 92,
+        "found_answer": "Cannes Film Festival and Berlin International Film Festival",
+        "golden_standard_answer": "Berlin, Cannes, Venice",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.4444444444444444
+    },
+    {
+        "question": "Where does the movie start?",
+        "question_index": 94,
+        "found_answer": "San Pedro Bay",
+        "golden_standard_answer": "San Pedro Bay",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What year was the movie released?",
+        "question_index": 95,
+        "found_answer": "1995",
+        "golden_standard_answer": "1995",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "From what disorder does Verbal suffer?",
+        "question_index": 97,
+        "found_answer": "cerebral palsy",
+        "golden_standard_answer": "cerebral palsy",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who has faked his own death?",
+        "question_index": 98,
+        "found_answer": "Keaton",
+        "golden_standard_answer": "Keaton",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many Oscars did the film won?",
+        "question_index": 99,
+        "found_answer": "T hey",
+        "golden_standard_answer": "2",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": " Who inquired Verbal?",
+        "question_index": 100,
+        "found_answer": "con artist with cerebral palsy",
+        "golden_standard_answer": "Dave Kujan",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who was the President of the United States when the movie was released?",
+        "question_index": 101,
+        "found_answer": "Manus",
+        "golden_standard_answer": "Bill Clinton",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many were shot down in Bloody Sunday?",
+        "question_index": 102,
+        "found_answer": "more than 2,000",
+        "golden_standard_answer": "13 to 14",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When was the peace deal signed?",
+        "question_index": 103,
+        "found_answer": "1998",
+        "golden_standard_answer": "1998",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When did Bloody Sunday happen?",
+        "question_index": 104,
+        "found_answer": "1972",
+        "golden_standard_answer": "30 January 1972",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "Where did the Bloody Sunday take place?",
+        "question_index": 105,
+        "found_answer": "Northern Ireland",
+        "golden_standard_answer": "Derry Londonderry",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What was the death toll in the 25 years of conflict?",
+        "question_index": 106,
+        "found_answer": "3,500",
+        "golden_standard_answer": "3500",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "List Michael Jordan's wives",
+        "question_index": 107,
+        "found_answer": "Juanita Vanoy",
+        "golden_standard_answer": "Juanita Vanoy, Yvette Prieto",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "With which women Michael Jordan has tied the knot?",
+        "question_index": 108,
+        "found_answer": "Juanita Vanoy",
+        "golden_standard_answer": "Juanita Vanoy, Yvette Prieto",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "What team did Michael Jordan play for after the Bulls?",
+        "question_index": 109,
+        "found_answer": "Washington Wizards",
+        "golden_standard_answer": "Washington Wizards",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who is Michael Jordan second wife?",
+        "question_index": 110,
+        "found_answer": "Juanita Vanoy",
+        "golden_standard_answer": "Yvette Prieto",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many people live in the city?",
+        "question_index": 111,
+        "found_answer": "95,671",
+        "golden_standard_answer": "95,671",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the number of non-native Galician residents in Santiago de Compostela?",
+        "question_index": 112,
+        "found_answer": "4,111",
+        "golden_standard_answer": "4,111",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is Bundesliga?",
+        "question_index": 113,
+        "found_answer": "43,500",
+        "golden_standard_answer": " is a professional association football league in Germany and the football league with the highest average stadium attendance worldwide",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Man Utd or Arsenal are more succesfull regarding the number of titles?",
+        "question_index": 115,
+        "found_answer": "Arsenal",
+        "golden_standard_answer": "Manchester United",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the nickname of Arsenal?",
+        "question_index": 116,
+        "found_answer": "Arsenal",
+        "golden_standard_answer": "The Gunners",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What does this review consider as the worst aspect?",
+        "question_index": 117,
+        "found_answer": "Unusually high level of service",
+        "golden_standard_answer": "No window ventilators",
+        "golden_standard_entity": "ASPECT",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What are the positive aspects mentioned in this review?",
+        "question_index": 119,
+        "found_answer": "Kitchen: It is very tasty and the prices are acceptable",
+        "golden_standard_answer": "kitchen, staff, area, internet, room",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.12500000000000003
+    },
+    {
+        "question": "Who likes Mary?",
+        "question_index": 121,
+        "found_answer": "John",
+        "golden_standard_answer": "John",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What Mary received?",
+        "question_index": 122,
+        "found_answer": "a present",
+        "golden_standard_answer": "a present",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who smiled?",
+        "question_index": 123,
+        "found_answer": "Tom",
+        "golden_standard_answer": "John",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "How many people were in the meeting room?",
+        "question_index": 124,
+        "found_answer": "everyone",
+        "golden_standard_answer": "At least two",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": " What time did John arrive at the meeting?",
+        "question_index": 125,
+        "found_answer": "8:30",
+        "golden_standard_answer": "After 8:30",
+        "golden_standard_entity": "TIME",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Why was the goalkeeper very sad?",
+        "question_index": 126,
+        "found_answer": "John's team did not play well but was lucky in the last minutes",
+        "golden_standard_answer": "Because he got 2 goals over the last 5 minutes of the game and his team lost.",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.26666666666666666
+    },
+    {
+        "question": "How many goals did Jon score?",
+        "question_index": 127,
+        "found_answer": "two",
+        "golden_standard_answer": "Two or 2",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "Which team played better?",
+        "question_index": 128,
+        "found_answer": "Olympiakos",
+        "golden_standard_answer": "The opposing team",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Which team was more apt?",
+        "question_index": 129,
+        "found_answer": "Olympiakos",
+        "golden_standard_answer": "John's team",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What's the name of the John's team?",
+        "question_index": 130,
+        "found_answer": "Ergotelis",
+        "golden_standard_answer": "Ergotelis",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "The fans of Olympiakos were positive or negative at the and of the game?",
+        "question_index": 131,
+        "found_answer": "disapproved",
+        "golden_standard_answer": "Negative",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When he moved to the capital of Italy?",
+        "question_index": 133,
+        "found_answer": "1570",
+        "golden_standard_answer": "1570",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the birthplace of El Greco?",
+        "question_index": 134,
+        "found_answer": "Kingdom of Candia",
+        "golden_standard_answer": "Heraklion OR Kingdom of Candia",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.7499999999999999
+    },
+    {
+        "question": "Where is the Kingdom of Candia?",
+        "question_index": 135,
+        "found_answer": "Republic of Venice",
+        "golden_standard_answer": "This is what is currently called Heraklion city in Crete, GREEECE",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Where El Greco lived the first 18 years of his life?",
+        "question_index": 136,
+        "found_answer": "Venice",
+        "golden_standard_answer": "Heraklion OR Kingdom of Candia",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Tell me some characteristics of Mannerism",
+        "question_index": 137,
+        "found_answer": "Venetian Renaissance",
+        "golden_standard_answer": "Slender, elongated limbs, splayed, twisting and turning bodies, contradicting all the traditional laws of proportion",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Show me a few indicative paintings of Mannerism style from wikipedia",
+        "question_index": 138,
+        "found_answer": "El Greco",
+        "golden_standard_answer": "https://en.wikipedia.org/wiki/Mannerism",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "In which coutries did El Greco live?",
+        "question_index": 139,
+        "found_answer": "Toledo, Spain",
+        "golden_standard_answer": "Greece, Italy, Spain",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.4
+    },
+    {
+        "question": "What is the name of the first Harry Potter novel?",
+        "question_index": 140,
+        "found_answer": "Harry Potter and The Philosopher's Stone",
+        "golden_standard_answer": "Harry Potter and the Philosopher's Stone",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the name of the fifth Harry Potter novel?",
+        "question_index": 141,
+        "found_answer": "Harry Potter and the Sorcerer's Stone",
+        "golden_standard_answer": "Harry Potter and the Order of the Phoenix",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.5714285714285714
+    },
+    {
+        "question": "When did the 7th harry potter book come out?",
+        "question_index": 142,
+        "found_answer": "6 October, 2015",
+        "golden_standard_answer": "21/07/07",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who was the murdered of his mother and father?",
+        "question_index": 143,
+        "found_answer": "Lord Voldemort",
+        "golden_standard_answer": "Dark wizard Lord Voldemort",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Which is the machine learning library of matlab?",
+        "question_index": 148,
+        "found_answer": "MKL",
+        "golden_standard_answer": "MKL",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which library makes Python faster?",
+        "question_index": 149,
+        "found_answer": "Cython",
+        "golden_standard_answer": "Cython library",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Who is the owner of the flashlight?",
+        "question_index": 153,
+        "found_answer": "his mobile phone",
+        "golden_standard_answer": "John",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who has a bicycle?",
+        "question_index": 154,
+        "found_answer": "Helen",
+        "golden_standard_answer": "Helen",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What destroyed the settlement?",
+        "question_index": 155,
+        "found_answer": "The eruption of the volcano of Thera",
+        "golden_standard_answer": "The eruption of the volcano of Thera",
+        "golden_standard_entity": "EVENT",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which volcano\u2019s eruption destroyed the settlement?",
+        "question_index": 156,
+        "found_answer": "Thera",
+        "golden_standard_answer": "Thera",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many times stronger was the eruption to Krakatoa\u2019s?",
+        "question_index": 157,
+        "found_answer": "four",
+        "golden_standard_answer": "four",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many people were killed by the eruption of Krakatoa?",
+        "question_index": 158,
+        "found_answer": "36,000",
+        "golden_standard_answer": "36000",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who excavated Akrotiri?",
+        "question_index": 159,
+        "found_answer": "Marinatos",
+        "golden_standard_answer": "Marinatos",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is a famous fresco from Akrotiri?",
+        "question_index": 160,
+        "found_answer": "Spring fresco",
+        "golden_standard_answer": "Spring fresco",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Name one famous Minoan town",
+        "question_index": 161,
+        "found_answer": "Knossos",
+        "golden_standard_answer": "Knossos",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is Knossos?",
+        "question_index": 162,
+        "found_answer": "Minoan towns",
+        "golden_standard_answer": "A minoan town",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.4
+    },
+    {
+        "question": "When was the eruption?",
+        "question_index": 163,
+        "found_answer": "1600 BC",
+        "golden_standard_answer": "1600 BC",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where is the volcano?",
+        "question_index": 164,
+        "found_answer": "Thera",
+        "golden_standard_answer": "Thera",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the name of the settlement?",
+        "question_index": 165,
+        "found_answer": "Akrotiri",
+        "golden_standard_answer": "Akrotiri",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Except from the settlement what else did the excavations discover?",
+        "question_index": 166,
+        "found_answer": "frescoes",
+        "golden_standard_answer": "Various impressive frescoes",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "Where were the frescoes found?",
+        "question_index": 167,
+        "found_answer": "Marinatos",
+        "golden_standard_answer": "In Akrotiri",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is Thera?",
+        "question_index": 168,
+        "found_answer": "volcano",
+        "golden_standard_answer": "Greek island in the Aegean Sea",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "In which sea is Thera located?",
+        "question_index": 169,
+        "found_answer": "Krakatoa\u2019s, which killed 36,000 people.",
+        "golden_standard_answer": "Aegean Sea",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Where is Krakatoa located?",
+        "question_index": 170,
+        "found_answer": "Akrotiri",
+        "golden_standard_answer": "Indonesia",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the first name of Marinatos?",
+        "question_index": 171,
+        "found_answer": "Marinatos",
+        "golden_standard_answer": "Spyridon",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the current name of greek island Thera?",
+        "question_index": 172,
+        "found_answer": "Akrotiri",
+        "golden_standard_answer": "Santorini",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When were the akrotiri excavations conducted?",
+        "question_index": 173,
+        "found_answer": "1600 BC",
+        "golden_standard_answer": "In 1967",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What is the capital of Santorini?",
+        "question_index": 174,
+        "found_answer": "Akrotiri",
+        "golden_standard_answer": "Fira",
+        "golden_standard_entity": "GPE",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "Who wins the first title of his carrer?",
+        "question_index": 180,
+        "found_answer": "Verstappen",
+        "golden_standard_answer": "Max Verstappen",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Who is the father of Max Verstappen?",
+        "question_index": 181,
+        "found_answer": "Jos",
+        "golden_standard_answer": "Jos",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many titles Michael Schumacher has won?",
+        "question_index": 183,
+        "found_answer": "seven",
+        "golden_standard_answer": "seven",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who is the seven-times champion?",
+        "question_index": 185,
+        "found_answer": "Max Verstappen",
+        "golden_standard_answer": "Lewis Hamilton",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "What sports can you do in Naxos?",
+        "question_index": 188,
+        "found_answer": "beach sports",
+        "golden_standard_answer": "cycling, mountain bikes, walking tours 4x4 drive beach sports, water ski, yachting",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.2857142857142857
+    },
+    {
+        "question": "Which is the major city in Naxos?",
+        "question_index": 189,
+        "found_answer": "Chora or Naxos City",
+        "golden_standard_answer": "Chora or Naxos city",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many people live in Chora",
+        "question_index": 191,
+        "found_answer": "7,374",
+        "golden_standard_answer": "7,374",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "When Socrates passed away?",
+        "question_index": 194,
+        "found_answer": "399 BC",
+        "golden_standard_answer": "399 BC",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where was he in his last day?",
+        "question_index": 196,
+        "found_answer": "prison",
+        "golden_standard_answer": "in prison",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "When was his birth year?",
+        "question_index": 198,
+        "found_answer": "470 BC",
+        "golden_standard_answer": "470 BC",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which was the first port of Titanic?",
+        "question_index": 199,
+        "found_answer": "New York City",
+        "golden_standard_answer": "Southampton",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 0.0
+    },
+    {
+        "question": "When Titanic sank?",
+        "question_index": 200,
+        "found_answer": "15 April 1912",
+        "golden_standard_answer": "15 April 1912",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which was the owner of Titanic",
+        "question_index": 202,
+        "found_answer": "White Star Line",
+        "golden_standard_answer": "White Star Line",
+        "golden_standard_entity": "ORG",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which was the second time that Paris organized the Olympic Games",
+        "question_index": 204,
+        "found_answer": "1924",
+        "golden_standard_answer": "1924",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which city will host sailing",
+        "question_index": 206,
+        "found_answer": "Marseille",
+        "golden_standard_answer": "Marseille",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which date will the flame arrive in France",
+        "question_index": 207,
+        "found_answer": "May 8",
+        "golden_standard_answer": "May 8",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the weather in the ceremony",
+        "question_index": 209,
+        "found_answer": "cloudy skies",
+        "golden_standard_answer": "cloudy skies",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What concept is frequently used to define complexity classes?",
+        "question_index": 210,
+        "found_answer": "a reduction",
+        "golden_standard_answer": "reduction",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.6666666666666666
+    },
+    {
+        "question": "Polynomial time reductions are an example of what?",
+        "question_index": 211,
+        "found_answer": "bound on the complexity",
+        "golden_standard_answer": "the bound on the complexity of reductions",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.8
+    },
+    {
+        "question": "Which city is the fifth-largest city in California?",
+        "question_index": 213,
+        "found_answer": "Fresno",
+        "golden_standard_answer": "Fresno",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which is the distance of Fresno from the state capital",
+        "question_index": 214,
+        "found_answer": "170 miles",
+        "golden_standard_answer": "170 miles (270 km)",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.5
+    },
+    {
+        "question": "In which Valley is Fresno the largest city?",
+        "question_index": 215,
+        "found_answer": "Central Valley",
+        "golden_standard_answer": "Central Valley",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What Microsoft CEO is also an alumni of the University of Chicago?",
+        "question_index": 218,
+        "found_answer": "Satya Nadella",
+        "golden_standard_answer": "Satya Nadella",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who is the third riches man in America?",
+        "question_index": 219,
+        "found_answer": "Larry Ellison",
+        "golden_standard_answer": "Larry Ellison",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who was the founder of the Oracle Corporation?",
+        "question_index": 221,
+        "found_answer": "Larry Ellison",
+        "golden_standard_answer": "Larry Ellison",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which movie won the Golden Globe Award in 2022",
+        "question_index": 222,
+        "found_answer": "The Power of the Dog",
+        "golden_standard_answer": "The Power of the Dog",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who is the director of Maestro?",
+        "question_index": 223,
+        "found_answer": "Bradley Cooper",
+        "golden_standard_answer": "Bradley Cooper",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which are the dates of the next Venice International Film Festival",
+        "question_index": 224,
+        "found_answer": "August 28 to September 7, 2024",
+        "golden_standard_answer": "August 28 to September 7, 2024.",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which two treaties provided more formal institutions of the European Union?",
+        "question_index": 227,
+        "found_answer": "Treaty of Rome 1957 and the Maastricht Treaty 1992",
+        "golden_standard_answer": "the Treaty of Rome 1957 and the Maastricht Treaty 1992 (now: TFEU)",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.761904761904762
+    },
+    {
+        "question": "In what years did Spain and Portugal join the European Union?",
+        "question_index": 228,
+        "found_answer": "1985",
+        "golden_standard_answer": "1985",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which country joined the European Union in 2013?",
+        "question_index": 229,
+        "found_answer": "Croatia",
+        "golden_standard_answer": "Croatia",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Which country in 1985 signed a treaty to give it special status?",
+        "question_index": 231,
+        "found_answer": "Greenland",
+        "golden_standard_answer": "Greenland",
+        "golden_standard_entity": "LOC",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What caused the need for principal Treaties that ended up forming the EU?",
+        "question_index": 233,
+        "found_answer": "common rules for coal and steel, and then atomic energy",
+        "golden_standard_answer": "common rules for coal and steel, and then atomic energy",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What was the main idea of James Hutton's paper",
+        "question_index": 234,
+        "found_answer": "the Earth must be much older than had previously been supposed",
+        "golden_standard_answer": "Earth must be much older than had previously been supposed",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.9523809523809523
+    },
+    {
+        "question": "James Hutton published a 2 volume version of his theories in what year?",
+        "question_index": 235,
+        "found_answer": "1795",
+        "golden_standard_answer": "1795",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who designed ABC's 1998 new graphic design?",
+        "question_index": 237,
+        "found_answer": "Pittard Sullivan",
+        "golden_standard_answer": "Pittard Sullivan",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "In what year did ABC stop using it's four-note jingle for promotion?",
+        "question_index": 238,
+        "found_answer": "2015",
+        "golden_standard_answer": "2015",
+        "golden_standard_entity": "DATE",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What image campaign was the new four-note jingle for ABC based around?",
+        "question_index": 239,
+        "found_answer": "We Love TV",
+        "golden_standard_answer": "We love TV",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where is the ABC four-note jingle still in use?",
+        "question_index": 240,
+        "found_answer": "ABC on Demand",
+        "golden_standard_answer": "ABC on Demand",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many points did the Panthers defense surrender?",
+        "question_index": 241,
+        "found_answer": "308",
+        "golden_standard_answer": "308",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Who registered the most sacks on the team this season?",
+        "question_index": 242,
+        "found_answer": "Kawann Short",
+        "golden_standard_answer": "Kawann Short",
+        "golden_standard_entity": "PERSON",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "How many Panthers defense players were selected for the Pro Bowl?",
+        "question_index": 243,
+        "found_answer": "four",
+        "golden_standard_answer": "four",
+        "golden_standard_entity": "CARDINAL",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "What is the name of the private day school for K-12 students the university runs?",
+        "question_index": 245,
+        "found_answer": "University of Chicago Laboratory Schools",
+        "golden_standard_answer": "University of Chicago Laboratory Schools",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    },
+    {
+        "question": "Where is the Hyde Park Day School located?",
+        "question_index": 246,
+        "found_answer": "University of Chicago campus",
+        "golden_standard_answer": "the University of Chicago campus",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.888888888888889
+    },
+    {
+        "question": "What is the name of the residential treatment program the university runs?",
+        "question_index": 247,
+        "found_answer": "Sonia Shankman Orthogenic School",
+        "golden_standard_answer": "the Sonia Shankman Orthogenic School",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 0.888888888888889
+    },
+    {
+        "question": "What does the Urban Education Institute help run?",
+        "question_index": 248,
+        "found_answer": "four public charter schools",
+        "golden_standard_answer": "four public charter schools",
+        "golden_standard_entity": "O",
+        "accuracy_f1": 1.0
+    }
+]
