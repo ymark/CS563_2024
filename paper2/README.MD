@@ -1,0 +1,1 @@
+presentation of paper Inan, E. and Dikenelli, O., 2017. Effect of enriched ontology structures on RDF embedding-based entity linking. In Metadata and Semantic Research: 11th International Conference, MTSR 2017, Tallinn, Estonia, November 28–December 1, 2017, Proceedings 11 (pp. 15-24). Springer International Publishing.  
